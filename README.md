@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**rithishkorivi/rithishkorivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Engineering Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning SQL, Python (Pandas, NumPy), Excel, Power BI, and Statistics.
+
+💼 Looking for internships and opportunities in Data Analytics and Business Intelligence.
+
+📈 Building projects using Python, SQL, Excel, and Power BI to strengthen my portfolio.
+
+📫 Email: rithishkumarreddykorivi@gmail.com
+
+⚡ Fun Fact: I enjoy solving real-world problems using data.
