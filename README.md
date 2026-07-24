@@ -406,36 +406,6 @@ Open_To:
 
 ---
 
-# 📚 Learning Roadmap
-
-```text
-Python
-   │
-   ▼
-SQL
-   │
-   ▼
-Excel
-   │
-   ▼
-Power BI
-   │
-   ▼
-Statistics
-   │
-   ▼
-Data Analysis
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Business Intelligence
-   │
-   ▼
-Professional Data Analyst
-```
-
 ---
 
 # 🌟 Professional Values
